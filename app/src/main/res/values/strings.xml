@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Kiew Wai Chuen</string>
+    <string name="my_pic">My Profile Picture</string>
+    <string name="my_profile_description">
+        DOB : 1/1/2020
+        \n
+        \n Testing 1 2 3
+        \n
+        \n Test Test
+
+
+
+    </string>
+</resources>
